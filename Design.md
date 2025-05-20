@@ -1,7 +1,3 @@
-Here is the improved and **detailed version** of your document, with the **race condition example** clearly explained under **Approach 1**:
-
----
-
 ## **Kafka-Based Batch Processing: Approaches and Trade-offs**
 
 ### **🎯 Objective:**
