@@ -1,5 +1,3 @@
-Here’s the full document with **all three approaches** included and clearly formatted:
-
 ---
 
 ## **Kafka-Based Batch Processing: Approaches and Trade-offs**
@@ -100,5 +98,3 @@ Efficiently process data in batches using Kafka, ensure all entities are success
 | Completion Time Control   | ✅ Event-driven             | ⚠️ Poll-based              | ✅ Immediate               |
 
 ---
-
-Let me know if you want this in Markdown, Word, or Confluence-ready format.
